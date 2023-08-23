@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=VoidMelody Github!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="VoidMelody Github!"&fontSize=90" />
 ## 안녕하세요! 백엔드 개발자 소승수입니다
 [![Gmail Badge](https://img.shields.io/badge/-sss9073@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sss9073@naver.com)](mailto:sss9073@naver.com) 
 [![Github Badge](https://img.shields.io/badge/-voidmelody-grey?style=flat&logo=github&logoColor=white&link=https://github.com/voidmelody/)](https://www.github.com/voidmelody/) 
