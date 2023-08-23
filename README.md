@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=blue&height=300&section=header&text=voidmelody%20Github&render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=voidmelody%20Github&render&fontSize=50)
 
 ### CONTACT 
 [![Gmail Badge](https://img.shields.io/badge/-sss9073@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sss9073@naver.com)](mailto:sss9073@naver.com) 
