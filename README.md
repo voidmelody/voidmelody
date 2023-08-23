@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-sss9073@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sss9073@naver.com)](mailto:sss9073@naver.com) 
 [![Github Badge](https://img.shields.io/badge/-voidmelody-grey?style=flat&logo=github&logoColor=white&link=https://github.com/voidmelody/)](https://www.github.com/voidmelody/) 
 
-	<div align="center">
+<div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
