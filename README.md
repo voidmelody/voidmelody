@@ -6,7 +6,6 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,grafana,idea,nginx,&perline=5)](https://skillicons.dev)
 
 ### GITHUB
-<img src=https://komarev.com/ghpvc/?username=voidmelody alt=voidmelody /> </p>
 [![Github stats](https://github-readme-stats.vercel.app/api?username=voidmelody&show_icons=true&include_all_commits=true)](https://github.com/voidmelody/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidmelody&layout=compact)](https://github.com/voidmelody/github-readme-stats)
 
