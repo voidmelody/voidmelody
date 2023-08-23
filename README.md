@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-voidmelody-grey?style=flat&logo=github&logoColor=white&link=https://github.com/voidmelody/)](https://www.github.com/voidmelody/) 
 
 ### SKILL
-[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,grafana,idea,nginx,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,grafana,idea,nginx,&perline=6)](https://skillicons.dev)
 
 ### GITHUB
 [![Github stats](https://github-readme-stats.vercel.app/api?username=voidmelody&show_icons=true&include_all_commits=true)](https://github.com/voidmelody/github-readme-stats)
