@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-voidmelody-grey?style=flat&logo=github&logoColor=white&link=https://github.com/voidmelody/)](https://www.github.com/voidmelody/) 
 
 ### SKILL
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 </div>
