@@ -5,8 +5,8 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
- <img src="https://img.shields.io/badge/Spring Security-#6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
+	<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+ 	<img src="https://img.shields.io/badge/SpringSecurity-#6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
 </div>
 
 <img src=https://komarev.com/ghpvc/?username=voidmelody alt=voidmelody /> </p>
