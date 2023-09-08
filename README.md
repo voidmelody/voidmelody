@@ -3,7 +3,7 @@
 ### CONTACT 
 [![Gmail Badge](https://img.shields.io/badge/-sss9073@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sss9073@naver.com)](mailto:sss9073@naver.com) 
 [![Github Badge](https://img.shields.io/badge/-voidmelody-grey?style=flat&logo=github&logoColor=white&link=https://github.com/voidmelody/)](https://www.github.com/voidmelody/) 
-<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="승수-소-67a916259" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/%EC%8A%B9%EC%88%98-%EC%86%8C-67a916259?trk=profile-badge">소승수</a></div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voidmelody/)](https://www.linkedin.com/in/voidmelody/)
               
 
 ### SKILL
