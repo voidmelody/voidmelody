@@ -3,9 +3,9 @@
 <div align=center>
   
 ### CONTACT 
-[![Gmail Badge](https://img.shields.io/badge/-sss9073@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sss9073@naver.com)](mailto:sss9073@naver.com) 
-[![Github Badge](https://img.shields.io/badge/-voidmelody-grey?style=flat&logo=github&logoColor=white&link=https://github.com/voidmelody/)](https://www.github.com/voidmelody/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voidmelody/)](https://www.linkedin.com/in/voidmelody/)
+[![Gmail Badge](https://img.shields.io/badge/-sss9073@naver.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sss9073@naver.com)](mailto:sss9073@naver.com) 
+[![Github Badge](https://img.shields.io/badge/-voidmelody-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/voidmelody/)](https://www.github.com/voidmelody/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voidmelody/)](https://www.linkedin.com/in/voidmelody/)
               
 
 ### SKILL
