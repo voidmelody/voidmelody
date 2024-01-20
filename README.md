@@ -13,7 +13,7 @@
 
 
 ### BOJ
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeffrey9073"/>
+![voidmelody's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jeffrey9073)
 
  ### Top Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidmelody)](https://github.com/anuraghazra/github-readme-stats)
